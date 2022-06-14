@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.header
+{
+  font-style: italic;
+}
+
+.menu-layout
+{
+  text-align: center;
+  max-width: 740px;
+  margin:auto;
+}
